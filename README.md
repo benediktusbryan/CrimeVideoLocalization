@@ -23,7 +23,7 @@ Please download the video files and bounding box label files before testing the 
 
 ## Trained Model
 
-The trained YOLOv9 model can be downloaded at the link below
+The trained YOLOv9 model can be downloaded at the link below:
 
 [YOLOv9 Trained with UCF-Crime](https://drive.google.com/drive/folders/1y3d6XbKpsUoUfgBAHSBtKw5n4M93JZp9?usp=sharing)
 
@@ -88,7 +88,7 @@ Please change the hyperparameters in config.py if necessary, where we keep defau
     cfg.data = './datasets/frame_ucfcrime_70_15_15/test.yaml'    #adjust the path
 ```
 
-Also please change the hyperparameters in configs/i3d.yaml if necessary
+Also please change the hyperparameters in configs/i3d.yaml if necessary:
 ```
 # Model
 feature_type: 'i3d'
