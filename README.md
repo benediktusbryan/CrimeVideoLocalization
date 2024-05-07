@@ -18,7 +18,7 @@ Please download the video files and bounding box label files before testing the 
 
 [Test Dataset](https://drive.google.com/drive/folders/16vm4ii_ZuoVozTzvQ9oupzOkMqaxm4vR?usp=sharing)
 
-<div align="left">
+<div align="center">
     <a href="./">
         <img src="./figure/robbery.gif" width="50%"/>
     </a>
