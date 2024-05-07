@@ -25,7 +25,7 @@ Please download the video files and bounding box label files before testing the 
 </div>
 
 
-Here are bounding box annotation samples. The object inside bounding box are the location of crime activity occured
+Here are bounding box annotation samples. The objects inside bounding box are the location of crime activity occured
 <div align="center">
     <a href="./">
         <img src="./figure/annotation 1.jpg" width="40%"/>
