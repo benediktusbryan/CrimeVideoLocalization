@@ -3,6 +3,9 @@
 
 A new Deep Learning method to detect and localize crime scene in video. Combining Prompt-Enhanced Learning Model to detect frame-level anomaly and YOLOv9 Model to localize pixel-level anomaly in video to detect crime activity. Crime category include Stealing, Bulgary, Shoplifting, and Robbery that is trained with weakly-labeled UCF Crime Dataset with addition bounding box label for each anomaly frames.
 
+## Abstract
+Video surveillance using CCTV in public areas is essential for enhancing security and monitoring specific locations. An important task in video surveillance is detecting anomalous events, including crimes, which can vary in scale and complexity. Video anomaly detection aims to identify the occurrence of such events, while localization is crucial for precisely determining their position. This study focuses on localizing incidents of theft captured on CCTV to improve theft incident monitoring. We propose a video anomaly detection and localization approach using Prompt-Enhanced Learning (PEL) for framelevel anomaly detection and YOLOv9 for localization. PEL provides anomaly scores to filter frames with anomalous events, which then will be an input into the YOLOv9 model to generate bounding boxes for anomaly events localization in pixel level.
+
 <div align="center">
     <a href="./">
         <img src="./framework.png" width="100%"/>
