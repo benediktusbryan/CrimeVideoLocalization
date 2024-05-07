@@ -3,17 +3,26 @@
 
 A new Deep Learning method to detect and localize crime scene in video. Combining Prompt-Enhanced Learning Model to detect frame-level anomaly and YOLOv9 Model to localize pixel-level anomaly in video to detect crime activity. Crime category include Stealing, Bulgary, Shoplifting, and Robbery that is trained with weakly-labeled UCF Crime Dataset with addition bounding box label for each anomaly frames.
 
-![image](https://github.com/benediktusbryan/CrimeVideoLocalization/blob/master/framework.png)
+<div align="center">
+    <a href="./">
+        <img src="./framework.png" width="100%"/>
+    </a>
+</div>
 
 ## Dataset
 
-[Test Dataset](https://drive.google.com/drive/folders/13RrxLeV-nwSe6gIq4YcchsH82dPoKMjz?usp=sharing)
+<div align="left">
+    <a href="./">
+        <img src="./robbery.gif" width="50%"/>
+    </a>
+</div>
+[Test Dataset](https://drive.google.com/drive/folders/13RrxLeV-nwSe6gIq4YcchsH82dPoKMjz?usp=sharing) UCF-Crime Test Dataset category Stealing, Bulgary, Shoplifting, and Robbery
 
 ## Quick Start
 
 ```
 python main.py \
-    feature_type=r21d
+    feature_type=i3d
 ```
 
 ## Original Model
