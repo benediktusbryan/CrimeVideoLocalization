@@ -131,4 +131,4 @@ Spatial Model: [YOLOv9](https://github.com/wongkinyiu/yolov9)
 
 ## Acknowledgements
 
-- Model trained at AI facility Tambora Server Institut Teknologi Bandung
+- Model trained at AI facility Tambora Server Institut Teknologi Bandung Indonesia
