@@ -24,11 +24,12 @@ Please download the video files and bounding box label files before testing the 
     </a>
 </div>
 
+
 Here are bounding box annotation samples. The object inside bounding box are the location of crime activity occured
 <div align="center">
     <a href="./">
-        <img src="./figure/annotation 1.png" width="100%"/>
-        <img src="./figure/annotation 2.png" width="100%"/>
+        <img src="./figure/annotation 1.jpg" width="40%"/>
+        <img src="./figure/annotation 2.jpg" width="40%"/>
     </a>
 </div>
 
@@ -38,12 +39,13 @@ The trained YOLOv9 model can be downloaded at the link below:
 
 [YOLOv9 Trained with UCF-Crime](https://drive.google.com/drive/folders/1y3d6XbKpsUoUfgBAHSBtKw5n4M93JZp9?usp=sharing)
 
+
 Images below are some previews of the model's output to localize crime activity:
 
 <div align="center">
     <a href="./">
-        <img src="./figure/shoplifting010_frame_813.png" width="100%"/>
-        <img src="./figure/stealing062_frame_515.png" width="100%"/>
+        <img src="./figure/shoplifting010_frame_813.jpg" width="40%"/>
+        <img src="./figure/stealing062_frame_515.jpg" width="40%"/>
     </a>
 </div>
 
