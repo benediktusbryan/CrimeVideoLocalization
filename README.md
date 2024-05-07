@@ -9,20 +9,15 @@ A new Deep Learning method to detect and localize crime scene in video. Combinin
     </a>
 </div>
 
-<div align="left">
-    <a href="./">
-        <img src="./robbery.gif" width="50%"/>
-    </a>
-</div>
-
 ## Dataset
 
+[Test Dataset](https://drive.google.com/drive/folders/13RrxLeV-nwSe6gIq4YcchsH82dPoKMjz?usp=sharing) UCF-Crime Test Dataset category Stealing, Bulgary, Shoplifting, and Robbery
+
 <div align="left">
     <a href="./">
         <img src="./robbery.gif" width="50%"/>
     </a>
 </div>
-[Test Dataset](https://drive.google.com/drive/folders/13RrxLeV-nwSe6gIq4YcchsH82dPoKMjz?usp=sharing) UCF-Crime Test Dataset category Stealing, Bulgary, Shoplifting, and Robbery
 
 ## Quick Start
 
