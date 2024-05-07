@@ -11,6 +11,8 @@ A new Deep Learning method to detect and localize crime scene in video. Combinin
 
 ## Dataset
 
+Please download the video files and bounding box label files before testing the model
+
 [Test Dataset](https://drive.google.com/drive/folders/16vm4ii_ZuoVozTzvQ9oupzOkMqaxm4vR?usp=sharing) UCF-Crime Test Dataset category Stealing, Bulgary, Shoplifting, and Robbery
 
 <div align="left">
@@ -19,7 +21,9 @@ A new Deep Learning method to detect and localize crime scene in video. Combinin
     </a>
 </div>
 
-## Pretrained Model
+## Trained Model
+
+The trained YOLOv9 model can be downloaded at the link below
 
 [YOLOv9 Trained with UCF-Crime](https://drive.google.com/drive/folders/1y3d6XbKpsUoUfgBAHSBtKw5n4M93JZp9?usp=sharing)
 
