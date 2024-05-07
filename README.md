@@ -37,7 +37,7 @@ Here are bounding box annotation samples. The objects inside bounding box are th
 
 The trained YOLOv9 model can be downloaded at the link below:
 
-[YOLOv9 Trained with UCF-Crime](https://drive.google.com/drive/folders/1y3d6XbKpsUoUfgBAHSBtKw5n4M93JZp9?usp=sharing)
+[YOLOv9 model trained with UCF-Crime](https://drive.google.com/drive/folders/1y3d6XbKpsUoUfgBAHSBtKw5n4M93JZp9?usp=sharing)
 
 
 Images below are some previews of the model's output to localize crime activity:
