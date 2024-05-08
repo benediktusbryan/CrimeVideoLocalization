@@ -1,5 +1,5 @@
 # Localization of Anomaly Activities from CCTV Surveillance Video Data in Theft Event
-**Authors**: Benediktus Bryan Bimantoro, Naufal Dzaki Hafizhan, Muhammad Kevin Ardela
+**Authors**: Benediktus Bryan Bimantoro, Naufal Dzaki Hafizhan, Muhammad Kevin Ardela, Rahman Indra Kesuma, Nugraha Priya Utama
 
 A new Deep Learning method to detect and localize crime scene in video. Combining Prompt-Enhanced Learning Model ([paper link](https://arxiv.org/pdf/2306.14451.pdf)) to detect frame-level anomaly and YOLOv9 Model ([paper link](https://arxiv.org/abs/2402.13616)) to localize pixel-level anomaly in video to detect crime activity. Crime category include Stealing, Bulgary, Shoplifting, and Robbery that is trained with weakly-labeled UCF Crime Dataset with addition bounding box label for each anomaly frames.
 
